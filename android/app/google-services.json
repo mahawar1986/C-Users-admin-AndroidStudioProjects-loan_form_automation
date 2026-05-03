@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654520686782",
+    "project_id": "loan-form-app",
+    "storage_bucket": "loan-form-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654520686782:android:c85f495b23d24f5bd4e6ef",
+        "android_client_info": {
+          "package_name": "com.example.loan_form_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgsuLNAaNqitL0nTp0SYDo9OH2vHFaMFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
